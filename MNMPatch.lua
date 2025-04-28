@@ -1,6 +1,6 @@
--- Monomachine Randomizer. 
+-- Monomachine Randomizer v1.0 
 -- 
--- HANJO, Tokyo, Japan.
+-- HANJŌ, Tokyo, Japan.
 -- K3: Randomize CC values on the current page.
 -- E1: Change page.
 -- E2: Select CC slot.
