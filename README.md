@@ -3,6 +3,8 @@
 **Monomachine Randomizer** is a MIDI CC randomizer tool for **Elektron Monomachine** (or any CC-capable synth), designed for live performance and creative sound design.  
 Send randomized MIDI CC values to multiple parameters across multiple pages.
 
+**Author:** HANJO – Tokyo, Japan 🇯🇵
+
 ---
 
 ## **FEATURES**
@@ -51,13 +53,6 @@ Send randomized MIDI CC values to multiple parameters across multiple pages.
 - Use **`K2` + `E3`** to switch between editing **CC Target**, **Value**, and **MIDI Channel**.
 - Randomizing a single page can create instant new patches and textures.
 - Designed for live flexibility and performance-based experimentation.
-
----
-
-## **CREDITS**
-
-- Script by **HANJO**  
-- Tokyo, Japan 🇯🇵
 
 ---
 
