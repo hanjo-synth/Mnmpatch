@@ -1,4 +1,4 @@
-# **MONOMACHINE RANDOMIZER**
+# **MNMPatch**
 
 **Monomachine Randomizer** is a MIDI CC randomizer tool for **Elektron Monomachine** (or any CC-capable synth), designed for live performance and creative sound design.  
 Send randomized MIDI CC values to multiple parameters across multiple pages.
