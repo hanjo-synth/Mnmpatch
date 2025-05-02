@@ -17,6 +17,9 @@ Send randomized MIDI CC values to multiple parameters across multiple pages.
 - **`K2` + `E3`**: Change edit mode (`CC Target`, `Value`, `MIDI Channel`)
 - **`E3`**: Edit current CC value, CC number, or MIDI channel depending on mode
 
+## **UPDATES**
+v1.1 Scroll to -1 CC value as OFF feature. 
+
 ---
 
 ## **OUTPUTS**
