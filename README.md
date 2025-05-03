@@ -5,7 +5,7 @@ Send randomized MIDI CC values to multiple parameters across multiple pages.
 
 **Author:** HANJO – Tokyo, Japan 🇯🇵
 
-![Alt text](./MNMPatch.png)
+![Alt text](./Mnmpatch.png)
 
 ---
 
