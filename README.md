@@ -29,6 +29,12 @@ v1.1 Scroll to -1 CC value as OFF feature.
 
 ---
 
+## **VIDEO**
+
+[![Watch the demo](https://img.youtube.com/vi/yFiYw2ncZfU/maxresdefault.jpg)](https://youtu.be/yFiYw2ncZfU?si=BeWD4kBgd0KMxcWF)
+
+---
+
 ## **TECHNICAL DETAILS**
 
 - Organize CC parameters into 7 pages:
