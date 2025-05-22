@@ -118,11 +118,11 @@ function redraw()
     draw_slot(i, current_data, 68, 15 + (i - 5) * 10)
   end
 
-  screen.move(4, 60)
+  screen.move(96, 60)
   screen.text("K3: Roll")
   screen.move(54, 60)
   screen.text(string.format("E1:%02d", current_page))
-  screen.move(96, 60)
+  screen.move(4, 60)
   if edit_mode == "cc" then
     screen.text("CC")
   elseif edit_mode == "value" then
